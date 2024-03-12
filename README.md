@@ -30,3 +30,10 @@ Lo que se realizó fue un análisis de estos datos, una transformación de los m
 ![Analisis_Siniestros_Viales.pbix](./src/KPI_1.png)
 
 El primer KPI se ve cumplido solo en algunos casos, como se ve en la captura, no en todos los semestres se logró una disminución del 10% de las víctimas fatales en siniestros, pero se puede apreciar que mientras más pasa el tiempo se ve una tendencia de baja en estos casos.
+
+
+## Segundo KPI
+***
+![Analisis_Siniestros_Viales.pbix](./src/KPI_2.png)
+
+El segundo KPI que busca la disminución de un 7% los siniestros mortales para motocicletas se vio en menor medida cumplido ya que como se ve en la captura, en 2019 y 2020 cayó la cantidad de víctimas pero para 2021 se vió un fuerte incremento de estos casos.
