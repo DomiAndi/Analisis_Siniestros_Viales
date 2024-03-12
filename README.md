@@ -23,3 +23,10 @@ Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Lo
 Para llevar a cabo este proyecto la identidad correspondiendte, en este caso el Observatorio de Movilidad y Seguridad Vial, que es un organismo que trabaja en la órbita del "Secretaría de Transporte del Gobierno de la Ciudad autónoma de Buenos Aires" brindó un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. En este se encontraba datos de las víctimas tales como sexo, edad, rol en el siniestro, vehículo damnificado(en caso de haberlo) y vehículo acusado de propiciar el siniestro, entre otros.
 
 Lo que se realizó fue un análisis de estos datos, una transformación de los mismos para poder dejar una base datos más aprovechable y una exposición de estos datos conjuntamente con la creación de dos medidores de desempeño(KPI) para evaluar el rendimiento del trabajo que se realiza en materia de seguridad vial.
+
+
+## Primer KPI
+***
+![Analisis_Siniestros_Viales.pbix](./src/KPI_1.png)
+
+El primer KPI se ve cumplido solo en algunos casos, como se ve en la captura, no en todos los semestres se logró una disminución del 10% de las víctimas fatales en siniestros, pero se puede apreciar que mientras más pasa el tiempo se ve una tendencia de baja en estos casos.
