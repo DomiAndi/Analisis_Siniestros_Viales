@@ -45,3 +45,8 @@ El segundo KPI que busca la disminución de un 7% los siniestros mortales para m
 Luego de haber estado trabajando en este informe se llega a la conclusión de que las medidas que se llevan a cabo por el gobierno en materia de seguridad vial están llevando a una pequeña disminución paulatina a través de los años, viendo como en el 2016 las víctimas fatales fueron 131 y para el 2021, en cambio se alcanzó la cifra de 95 víctimas fatales. Sin embargo, esas cifras siguen siendo muy altas y no lineales, por lo que en algunas situaciones se ven apercibidos los medidores de rendimiento planteados para este informe. Decimos que estas cifras son altas porque de acuerdo con informes de la "Municipalidad de Córdoba" para el mismo período(2021) se registraron 66 víctimas fatales siendo en territorio(576km2 contra 203km2) un %288 más grande.
 
 Este proyecto busca no solo abordar los requisitos mínimos sino también desafiarse a sí mismo para ofrecer un análisis completo y competente en la temática de seguridad vial en Buenos Aires.
+
+
+## Conctacto
+***
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-jimenez-navarrete-a4670a1ba/)
